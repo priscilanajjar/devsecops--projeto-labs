@@ -1,5 +1,5 @@
 {
-  "status": "Conectado ao Banco de Dados de Produção",
+  "status": "Criando primeiro Banco de Dados de Produção",
   "versao_do_banco": "v1.0.0",
   "itens": [
     {"id": 1, "task": "Aprender o que é SDLC"},
